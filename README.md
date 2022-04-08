@@ -1,7 +1,8 @@
 REACT JS APP LINK:https://browserhisch.ccbp.tech/ .
 Developed an browerhistory application where the user can search for the specific history by using the input field and user can also delete browser history.
 It includes: react components, state, list, Event handlers, props.
-Technologies used:React JS,JSX,CSS
+Technologies used:React JS,JSX,CSS.
+To see the main file go to src folder.
 
 ### Refer to the image below:
 
